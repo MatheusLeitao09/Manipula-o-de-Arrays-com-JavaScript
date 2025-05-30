@@ -1,0 +1,1 @@
+## Resolução do exercícios nível HARD só para DEV
