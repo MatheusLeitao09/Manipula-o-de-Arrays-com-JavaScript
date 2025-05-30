@@ -8,3 +8,6 @@ let diasFaltas = [
   "Carlos – Terça (semana 2)",
   "Carlos – Quarta (semana 2)"
 ];
+
+let semana = diasFaltas.filter(dia => !dia.includes("semana 2"));
+console.log(`A primeira semana de férias ficou: ${semana}`);
